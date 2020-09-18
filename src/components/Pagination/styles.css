@@ -1,0 +1,15 @@
+.pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pagination .item{
+    width: 110px;
+    height: 24px;
+    margin: 8px;
+}
+
+.pagination .item:hover{
+    
+}

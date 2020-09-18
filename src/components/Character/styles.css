@@ -1,0 +1,12 @@
+.char {
+    background: #dadada;
+    display: flex;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+.char img {
+    width: 160px;
+    height: 160px;
+    margin: 16px;
+}
